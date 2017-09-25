@@ -1,0 +1,65 @@
+<object-stream>
+  <java.util.Stack serialization="custom">
+    <unserializable-parents/>
+    <vector>
+      <default>
+        <capacityIncrement>0</capacityIncrement>
+        <elementCount>2</elementCount>
+        <elementData>
+          <models.MaxHeap>
+            <heapArray>
+              <models.Pair>
+                <spanish>su</spanish>
+                <english>your, her, his, their</english>
+              </models.Pair>
+              <models.Pair>
+                <spanish>playa</spanish>
+                <english>beach, strand</english>
+              </models.Pair>
+              <models.Pair>
+                <spanish>ser</spanish>
+                <english>to be</english>
+              </models.Pair>
+              <models.Pair>
+                <spanish>ir</spanish>
+                <english>to go</english>
+              </models.Pair>
+              <models.Pair>
+                <spanish>estar</spanish>
+                <english>to be</english>
+              </models.Pair>
+              <models.Pair>
+                <spanish>a</spanish>
+                <english>to</english>
+              </models.Pair>
+              <models.Pair>
+                <spanish>bueno</spanish>
+                <english>good</english>
+              </models.Pair>
+              <models.Pair>
+                <spanish>gracias</spanish>
+                <english>thanks</english>
+              </models.Pair>
+              <models.Pair>
+                <spanish>hacer</spanish>
+                <english>to do, to make</english>
+              </models.Pair>
+            </heapArray>
+            <match class="models.Pair" reference="../heapArray/models.Pair[2]"/>
+            <treeTraversal>1</treeTraversal>
+            <debug>false</debug>
+          </models.MaxHeap>
+          <models.MaxHeap reference="../models.MaxHeap"/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+        </elementData>
+      </default>
+    </vector>
+  </java.util.Stack>
+</object-stream>
